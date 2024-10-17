@@ -1,5 +1,5 @@
-import { CloudIcon } from "@heroicons/react/24/outline";
-import GitHub from "../../public/github.svg";
+// import { CloudIcon } from "@heroicons/react/24/outline";
+// import GitHub from "../../public/github.svg";
 
 const Footer: React.FC = () => {
   return (
@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               className="mr-1.5 py-2 mx-2"
             />
             <a href="https://github.com/aws-samples/serverless-pdf-chat">
-              Source code on GitHub
+              Source code on GitHub ABC
             </a>
           </div>
         </div>
